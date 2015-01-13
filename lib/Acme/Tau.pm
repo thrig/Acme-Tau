@@ -32,7 +32,7 @@ The τ that is τ is not the true τ. This is only a copy.
 
 =head1 SEE ALSO
 
-L<Acme::Pi>
+L<Acme::Pi>, L<http://tauday.com/>
 
 =head1 AUTHOR
 
